@@ -16,3 +16,4 @@ Các chức năng của App:
 
 6. Lưu lịch sử ôn tập; thống kê điểm số và số lượng thẻ đã học; theo dõi tiến độ; lập lịch ôn tập và đồng bộ Google Calendar.(tạo luôn thông báo)
 
+<img width="1800" height="1520" alt="Crammr · UI Design System" src="https://github.com/user-attachments/assets/63195e9a-0e82-48a5-956f-75b68ba59906" />
