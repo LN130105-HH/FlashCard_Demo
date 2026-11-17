@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_button_secondary.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_button_secondary.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_edit.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_segmented_container.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_segmented_container.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_home.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_welcome.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_import.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_import.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_notification_settings.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_notification_settings.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_study_history.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_study_history.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_chat.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_collection.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_collection.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_library.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_library.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_how_it_works.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_how_it_works.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_preview_card.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_preview_card.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_quiz_setup.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_quiz_setup.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_notifications.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_notifications.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_attach.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_attach.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_collection_detail.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_collection_detail.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_flashcard.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_flashcard.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_policy.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_policy.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_quiz_play.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_quiz_play.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_progress_indicator_crammr.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/progress_indicator_crammr.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_manage_categories.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_manage_categories.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_fragment_progress.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_progress.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_progress.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_flashcard_front.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_flashcard_front.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_login.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/color_nav_item_color.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_fragment_home.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_fragment_ai_chat.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/fragment_ai_chat.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_add_reminder.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_flashcard.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_flashcard.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_signup.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_eye.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_add_edit_flashcard.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_add_edit_flashcard.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_forgot_password.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_reminder.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_about.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_profile.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_flashcard_back.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_flashcard_back.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_segmented_active.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_segmented_active.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_circle_primary.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_circle_primary.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_circle_badge.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_circle_badge.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_study_history.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_study_history.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_send.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_button_primary.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_help_center.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_help_center.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_upload.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_delete.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_tag_ready.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_tag_ready.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_add.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_export.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_export.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_study_schedule.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_study_schedule.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_personal_info.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_personal_info.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_checkmark.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_checkmark.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_quiz.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_quiz.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_study_flashcard.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_study_flashcard.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_ai_preview.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_ai_preview.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_fragment_library.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/fragment_library.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_tag_draft.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_tag_draft.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_search.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_calendar.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_quiz_result.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_quiz_result.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_notification.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_add_edit_collection.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_add_edit_collection.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_bg_tag_processing.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/bg_tag_processing.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_activity_splash.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/xml_file_paths.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_quiz_option.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_quiz_option.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_chat_message.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/drawable_ic_clock.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.crammr.studyflashcard.app-debug-48:/layout_item_notification.xml.flat",
+        "source": "com.crammr.studyflashcard.app-main-50:/layout/item_notification.xml"
+    }
+]

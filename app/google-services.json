@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688140769675",
+    "project_id": "flashcard-b6737",
+    "storage_bucket": "flashcard-b6737.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688140769675:android:56d47189ca10df2cedf78e",
+        "android_client_info": {
+          "package_name": "com.crammr.studyflashcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICatlipVddlcojom-ttfOUTeld-WOE5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

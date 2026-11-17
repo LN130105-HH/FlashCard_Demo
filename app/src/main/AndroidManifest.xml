@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_flashcard"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_flashcard"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StudyWithFlashCard">
+
+        <!-- Splash Screen (Launcher) -->
+        <activity
+            android:name=".ui.auth.SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Auth Flow -->
+        <activity
+            android:name=".ui.auth.WelcomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.auth.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.auth.SignUpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.auth.ForgotPasswordActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Main Home & Tabs -->
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Library Flow -->
+        <activity
+            android:name=".ui.library.CollectionDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.library.AddEditCollectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.library.AddEditFlashcardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.library.ManageCategoriesActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Learning & Quiz Flow -->
+        <activity
+            android:name=".ui.study.StudyFlashcardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.study.QuizSetupActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.study.QuizPlayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.study.QuizResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.study.StudyHistoryActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- AI Preview -->
+        <activity
+            android:name=".ui.ai.AiPreviewActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Schedule & Notifications -->
+        <activity
+            android:name=".ui.schedule.StudyScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.schedule.AddReminderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.notifications.NotificationsActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Settings Flow -->
+        <activity
+            android:name=".ui.settings.PersonalInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.settings.HelpCenterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.settings.NotificationSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.settings.PolicyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.settings.HowItWorksActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.settings.AboutActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Import / Export Flow -->
+        <activity
+            android:name=".ui.importexport.ImportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.importexport.ExportActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- FileProvider for Sharing Exported Decks -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+    </application>
+
+</manifest>

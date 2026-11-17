@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary (Ice Cyan - Core actions) -->
+    <color name="primary_frost">#E7F9FC</color>
+    <color name="primary_mist">#C5EFF7</color>
+    <color name="primary_ice_cyan">#9CE5F4</color>
+    <color name="primary_lagoon">#4CB8CF</color>
+    <color name="primary_deep_teal">#216C80</color>
+
+    <!-- Secondary (Electric Sky Blue - Highlights) -->
+    <color name="secondary_cloud">#DBF3FC</color>
+    <color name="secondary_sky">#85D4F4</color>
+    <color name="secondary_electric_sky">#26A9E0</color>
+    <color name="secondary_ocean">#147DAA</color>
+    <color name="secondary_deep_blue">#0D4D6A</color>
+
+    <!-- Surface / Dark (Deep Navy Black - Foundation) -->
+    <color name="surface_elevated">#1C3542</color>
+    <color name="surface_card">#142B37</color>
+    <color name="surface_dark">#0A1922</color>
+    <color name="surface_canvas">#08141B</color>
+    <color name="surface_night">#050D12</color>
+
+    <!-- Neutral / Muted (Slate Grey - Supporting UI) -->
+    <color name="neutral_pale_slate">#D6E3E7</color>
+    <color name="neutral_soft_slate">#AEC3CA</color>
+    <color name="neutral_muted">#8CA8B2</color>
+    <color name="neutral_slate_grey">#7E9BA4</color>
+    <color name="neutral_deep_slate">#40636D</color>
+
+    <!-- Functional Feedback Colors -->
+    <color name="status_success">#2ECC71</color>
+    <color name="status_success_bg">#183B2B</color>
+    <color name="status_error">#E74C3C</color>
+    <color name="status_error_bg">#3D1E20</color>
+    <color name="status_warning">#F39C12</color>
+    <color name="status_warning_bg">#3E2D12</color>
+    <color name="status_info">#26A9E0</color>
+
+    <!-- Standard Aliases for Material Theme -->
+    <color name="colorPrimary">#9CE5F4</color>
+    <color name="colorPrimaryVariant">#4CB8CF</color>
+    <color name="colorOnPrimary">#050D12</color>
+
+    <color name="colorSecondary">#26A9E0</color>
+    <color name="colorSecondaryVariant">#147DAA</color>
+    <color name="colorOnSecondary">#050D12</color>
+
+    <color name="colorBackground">#08141B</color>
+    <color name="colorSurface">#0A1922</color>
+    <color name="colorOnBackground">#D6E3E7</color>
+    <color name="colorOnSurface">#D6E3E7</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
